@@ -1,7 +1,0 @@
-C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\WSPortafolio\bin\WSPortafolio.dll.config
-C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\WSPortafolio\bin\WSPortafolio.dll
-C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\WSPortafolio\bin\WSPortafolio.pdb
-C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\WSPortafolio\obj\Debug\WSPortafolio.csproj.CoreCompileInputs.cache
-C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\WSPortafolio\obj\Debug\WSPortafolio.dll
-C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\WSPortafolio\obj\Debug\WSPortafolio.pdb
-C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\WSPortafolio\obj\Debug\WSPortafolio.csprojAssemblyReference.cache
