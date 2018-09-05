@@ -1,0 +1,10 @@
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Release\Portafolio.DALC.dll.config
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Release\Portafolio.DALC.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Release\Portafolio.DALC.pdb
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Release\EntityFramework.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Release\EntityFramework.xml
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Release\Portafolio.DALC.csprojAssemblyReference.cache
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Release\Portafolio.DALC.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Release\Portafolio.DALC.csproj.CopyComplete
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Release\Portafolio.DALC.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Release\Portafolio.DALC.pdb

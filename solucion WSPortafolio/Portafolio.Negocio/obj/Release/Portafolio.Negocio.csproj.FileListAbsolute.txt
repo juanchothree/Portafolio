@@ -1,0 +1,13 @@
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Release\Portafolio.Negocio.dll.config
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Release\Portafolio.Negocio.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Release\Portafolio.Negocio.pdb
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Release\EntityFramework.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Release\Portafolio.DALC.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Release\Portafolio.DALC.pdb
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Release\Portafolio.DALC.dll.config
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Release\EntityFramework.xml
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\obj\Release\Portafolio.Negocio.csprojAssemblyReference.cache
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\obj\Release\Portafolio.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\obj\Release\Portafolio.Negocio.csproj.CopyComplete
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\obj\Release\Portafolio.Negocio.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\obj\Release\Portafolio.Negocio.pdb
