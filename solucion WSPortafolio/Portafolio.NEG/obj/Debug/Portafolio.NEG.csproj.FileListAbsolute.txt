@@ -1,0 +1,6 @@
+C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\Portafolio.NEG\obj\Debug\Portafolio.NEG.csprojAssemblyReference.cache
+C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\Portafolio.NEG\obj\Debug\Portafolio.NEG.csproj.CoreCompileInputs.cache
+C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\Portafolio.NEG\bin\Debug\Portafolio.NEG.dll
+C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\Portafolio.NEG\bin\Debug\Portafolio.NEG.pdb
+C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\Portafolio.NEG\obj\Debug\Portafolio.NEG.dll
+C:\Users\Marce\Source\Repos\Portafolio\solucion WSPortafolio\Portafolio.NEG\obj\Debug\Portafolio.NEG.pdb
