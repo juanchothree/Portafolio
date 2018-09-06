@@ -1,0 +1,17 @@
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\Portafolio.Negocio.dll
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\Portafolo.DALC.dll
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\Portafolio.Negocio.pdb
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\Portafolio.Negocio.dll.config
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\Portafolo.DALC.pdb
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\Portafolo.DALC.dll.config
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Marce\source\repos\Prueba\ConsoleApp1\bin\Debug\Oracle.ManagedDataAccess.dll

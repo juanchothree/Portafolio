@@ -1,0 +1,14 @@
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\obj\Debug\Portafolio.Negocio.csprojAssemblyReference.cache
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\obj\Debug\Portafolio.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\bin\Debug\Portafolio.Negocio.dll.config
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\bin\Debug\Portafolio.Negocio.dll
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\bin\Debug\Portafolio.Negocio.pdb
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\bin\Debug\Portafolo.DALC.dll
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\bin\Debug\Portafolo.DALC.pdb
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\bin\Debug\Portafolo.DALC.dll.config
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\obj\Debug\Portafolio.Negocio.csproj.CopyComplete
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\obj\Debug\Portafolio.Negocio.dll
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\obj\Debug\Portafolio.Negocio.pdb
+C:\Users\Marce\source\repos\Prueba\Portafolio.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll

@@ -1,0 +1,11 @@
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\bin\Debug\Portafolo.DALC.dll.config
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\bin\Debug\Portafolo.DALC.dll
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\bin\Debug\Portafolo.DALC.pdb
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\bin\Debug\EntityFramework.dll
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\bin\Debug\EntityFramework.xml
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\obj\Debug\Portafolo.DALC.csprojAssemblyReference.cache
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\obj\Debug\Portafolo.DALC.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\obj\Debug\Portafolo.DALC.csproj.CopyComplete
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\obj\Debug\Portafolo.DALC.dll
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\obj\Debug\Portafolo.DALC.pdb
+C:\Users\Marce\source\repos\Prueba\Portafolo.DALC\bin\Debug\Oracle.ManagedDataAccess.dll

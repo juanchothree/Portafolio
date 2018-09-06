@@ -1,0 +1,16 @@
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\Portafolio.Probando.exe
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\Portafolio.Probando.pdb
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\obj\Debug\Portafolio.Probando.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\obj\Debug\Portafolio.Probando.exe
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\obj\Debug\Portafolio.Probando.pdb
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\Portafolio.Negocio.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\Portafolio.DALC.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\EntityFramework.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\Portafolio.Negocio.pdb
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\Portafolio.Negocio.dll.config
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\Portafolio.DALC.pdb
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\Portafolio.DALC.dll.config
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\EntityFramework.xml
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\obj\Debug\Portafolio.Probando.csproj.CopyComplete
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\obj\Debug\Portafolio.Probando.csprojAssemblyReference.cache
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Probando\bin\Debug\Portafolio.Probando.exe.config

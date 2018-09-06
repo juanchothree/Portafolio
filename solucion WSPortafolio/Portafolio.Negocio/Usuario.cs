@@ -43,7 +43,8 @@ namespace Portafolio.Negocio
         {
             try
             {
-                DALC.USUARIOS user = CommonBC.Modelo.USUARIOS.First(u => u.NOMBRE_USUARIO.Trim() == NombreUsuario.Trim());
+
+                Portafolio1.DALC.USUARIOS user = CommonBC.Modelo.USUARIOS.First(u => u.NOMBRE_USUARIO.Trim() == NombreUsuario.Trim());
 
                 return (user.CONTRASEÑA.Trim() == Pass);
             }
@@ -57,7 +58,7 @@ namespace Portafolio.Negocio
         {
             try
             {
-                DALC.USUARIOS user = CommonBC.Modelo.USUARIOS.First(u => u.NOMBRE_USUARIO.Trim() == NombreUsuario.Trim());
+                Portafolio1.DALC.USUARIOS user = CommonBC.Modelo.USUARIOS.First(u => u.NOMBRE_USUARIO.Trim() == NombreUsuario.Trim());
 
                 Rut = user.ID_USUARIO;
                 Pass = user.CONTRASEÑA;

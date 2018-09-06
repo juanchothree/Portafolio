@@ -11,3 +11,7 @@ C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\obj\Debug\Portafolio.Negocio.csproj.CopyComplete
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\obj\Debug\Portafolio.Negocio.dll
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\obj\Debug\Portafolio.Negocio.pdb
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Debug\Oracle.ManagedDataAccessDTC.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.Negocio\bin\Debug\Oracle.ManagedDataAccessIOP.dll

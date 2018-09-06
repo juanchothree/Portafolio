@@ -3,8 +3,12 @@ C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Debug\Portafolio.DALC.pdb
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Debug\EntityFramework.dll
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Debug\EntityFramework.xml
-C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Debug\Portafolio.DALC.csprojAssemblyReference.cache
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Debug\Portafolio.DALC.csproj.CoreCompileInputs.cache
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Debug\Portafolio.DALC.csproj.CopyComplete
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Debug\Portafolio.DALC.dll
 C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Debug\Portafolio.DALC.pdb
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\obj\Debug\Portafolio.DALC.csprojAssemblyReference.cache
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Debug\Oracle.ManagedDataAccessDTC.dll
+C:\Users\Marce\source\repos\Portafolio\solucion WSPortafolio\Portafolio.DALC\bin\Debug\Oracle.ManagedDataAccessIOP.dll

@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Portafolio.Negocio</RootNamespace>
     <AssemblyName>Portafolio.Negocio</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -38,6 +38,15 @@
     </Reference>
     <Reference Include="Microsoft.Build.Framework" />
     <Reference Include="Microsoft.Build.Tasks.v4.0" />
+    <Reference Include="Oracle.DataAccess, Version=2.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="Oracle.DataAccess.EntityFramework, Version=6.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="Oracle.ManagedDataAccessDTC">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Oracle Developer Tools for VS2017\odp.net\managed\x64\Oracle.ManagedDataAccessDTC.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccessIOP">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Oracle Developer Tools for VS2017\odp.net\managed\x64\Oracle.ManagedDataAccessIOP.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
@@ -54,14 +63,22 @@
     <Compile Include="Usuario.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Portafolio.DALC\Portafolio.DALC.csproj">
-      <Project>{BAA58D85-173D-4FE9-9671-8864DE4C2FAE}</Project>
-      <Name>Portafolio.DALC</Name>
-    </ProjectReference>
+    <None Include="App.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-    <None Include="packages.config" />
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="..\..\..\..\..\..\..\Program Files %28x86%29\Oracle Developer Tools for VS2017\odp.net\managed\x64\Oracle.ManagedDataAccessIOP.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Portafolio1.DALC\Portafolio1.DALC.csproj">
+      <Project>{4165e6f0-964a-4b05-b541-8c10558eb59f}</Project>
+      <Name>Portafolio1.DALC</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
